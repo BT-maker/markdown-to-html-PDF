@@ -231,29 +231,8 @@ markdown-to-html/
 - **Göz yorgunluğunu azaltan renkler**
 - **Dark mode syntax highlighting**
 
-## ✅ Tamamlanan Özellikler
 
-- [x] **CLI Interface** - Komut satırı arayüzü
-- [x] **Web Interface** - Modern web arayüzü
-- [x] **PDF Support** - Markdown'dan PDF oluşturma
-- [x] **Drag & Drop** - Dosya sürükle-bırak
-- [x] **Real-time Preview** - Gerçek zamanlı önizleme
-- [x] **Dark/Light Theme** - Tema desteği
-- [x] **Syntax Highlighting** - Kod renklendirme
-- [x] **Responsive Design** - Mobil uyumlu tasarım
-- [x] **Auto-naming** - Otomatik dosya isimlendirme
-- [x] **Error Handling** - Hata yönetimi
 
-## 🚧 Gelecek Özellikler
-
-- [ ] **Custom CSS Themes** - Özel CSS tema desteği
-- [ ] **Watch Mode** - Dosya değişikliklerini izleme
-- [ ] **Math Support** - Matematiksel formül desteği (KaTeX)
-- [ ] **Multi-language** - Çoklu dil desteği
-- [ ] **API Endpoints** - REST API
-- [ ] **Docker Support** - Docker container desteği
-- [ ] **Batch Processing** - Toplu dosya işleme
-- [ ] **Export Formats** - Diğer formatlar (DOCX, RTF)
 
 ## 🤝 Katkıda Bulunma
 
