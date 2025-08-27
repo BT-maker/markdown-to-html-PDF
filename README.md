@@ -267,11 +267,11 @@ Bu projeye katkıda bulunmak istiyorsanız:
 
 ### 🐛 Bug Report
 
-Bir hata bulduysanız, lütfen [Issue](https://github.com/BT-maker/markdown-to-html&PDF/issues) açın.
+Bir hata bulduysanız, lütfen [Issue](https://github.com/BT-maker/markdown-to-html-PDF/issues) açın.
 
 ### 💡 Feature Request
 
-Yeni özellik önerileriniz için [Issue](https://github.com/BT-maker/markdown-to-html&PDF/issues) açın.
+Yeni özellik önerileriniz için [Issue](https://github.com/BT-maker/markdown-to-html-PDF/issues) açın.
 
 
 
@@ -288,7 +288,7 @@ Yeni özellik önerileriniz için [Issue](https://github.com/BT-maker/markdown-t
 
 ## 📞 İletişim
 
-- **GitHub Issues**: [Issue Açın](https://github.com/yourusername/markdown-to-html/issues)
+- **GitHub Issues**: [Issue Açın](https://github.com/BT-maker/markdown-to-html-PDF/issues)
 - **Email**: bahattok5@gmail.com
 - **Website**: https://bt-maker.github.io/Portfolio/
 
